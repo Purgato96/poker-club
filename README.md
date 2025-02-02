@@ -1,14 +1,49 @@
-[//]: # ()
-[//]: # (<p align="center">)
+# Poker Club 🎲
 
-[//]: # (<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>)
+**Language:** 🇧🇷 [Português](#-sobre-o-projeto) | 🇺🇸 [English](#-about-the-project)
 
-[//]: # (<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>)
+## 📌 Sobre o Projeto
+Site de poker responsivo, com plataforma de jogos de poker online.
 
-[//]: # (<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>)
+## 🚀 Tecnologias Utilizadas
+- Laravel
+- Inertia.js
+- Vue.js
+- TailwindCSS
 
-[//]: # (<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>)
+## 📦 Instalação
+```sh
+    git clone https://github.com/seuusuario/seurepositorio.git
+    cd seurepositorio
+    composer install
+    npm install
+    cp .env.example .env
+    php artisan key:generate
+    php artisan migrate
+    php artisan serve
+````
 
-[//]: # (</p>)
-# poker-club
-Responsive poker site, with online poker gaming platform
+# 🏴‍☠️ English
+
+## 📌 About the Project
+
+Site de poker responsivo, com plataforma de jogos de poker online.
+
+## 🚀 Technologies Used
+- Laravel
+- Inertia.js
+- Vue.js
+- TailwindCSS
+
+## 📦 Installation
+```sh
+    git clone https://github.com/seuusuario/seurepositorio.git
+    cd seurepositorio
+    composer install
+    npm install
+    cp .env.example .env
+    php artisan key:generate
+    php artisan migrate
+    php artisan serve
+````
+
